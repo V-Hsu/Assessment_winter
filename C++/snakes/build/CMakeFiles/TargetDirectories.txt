@@ -1,0 +1,3 @@
+/home/v_hsu/V_Hsu/code/myproject/plane/build/CMakeFiles/test.dir
+/home/v_hsu/V_Hsu/code/myproject/plane/build/CMakeFiles/edit_cache.dir
+/home/v_hsu/V_Hsu/code/myproject/plane/build/CMakeFiles/rebuild_cache.dir

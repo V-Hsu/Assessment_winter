@@ -28,7 +28,6 @@
  * Matrix Matrix::operator/(const Matrix& other)                    10 points
  * bool Matrix::operator==(const Matrix& other)                     10 points
  */
-#include<iostream>
 #include "matrix.h"
 
 int main() {
